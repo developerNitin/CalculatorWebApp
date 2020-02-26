@@ -1,1 +1,1 @@
-# simple Calculator using express with node.js.
+# Simple calculator using express with node.js.
