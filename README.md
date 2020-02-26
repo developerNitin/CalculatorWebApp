@@ -1,1 +1,2 @@
-# Simple calculator using express with node.js.
+# CalculatorWebApp
+Simple calculator using express with node.js.
